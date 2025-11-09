@@ -1,3 +1,17 @@
+## 🧩 **GitHub**
+
+O **GitHub** é a maior plataforma de hospedagem de código-fonte do mundo, baseada no sistema de controle de versão **Git**.  
+Ele permite que desenvolvedores **armazenem, compartilhem e colaborem em projetos de software** de forma segura e organizada.  
+
+Além do versionamento, o GitHub oferece recursos poderosos para **colaboração e automação**, como:
+- **Pull Requests (PRs):** revisões de código e integração de mudanças.  
+- **GitHub Actions:** automação de pipelines CI/CD.  
+- **Issues e Projects:** gerenciamento ágil de tarefas e bugs.  
+- **Releases e Tags:** controle de versões e deploys organizados.  
+
+> 💡 É uma ferramenta essencial para desenvolvedores, equipes ágeis e empresas que buscam **colaboração, transparência e controle no ciclo de desenvolvimento**.
+
+
 # 🌿 Estrutura de Branches (Git)
 
 A estrutura de **branches** define como o time organiza o desenvolvimento de software em um projeto versionado com **Git**.  
